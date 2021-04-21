@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Acacium Group JSON Converter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Acacium_Group_JSON_Converter_jar</output-path>
+    <root id="archive" name="Acacium Group JSON Converter.jar">
+      <element id="module-output" name="Acacium Group JSON Converter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-csv-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-annotations-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-core-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jackson-databind-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
